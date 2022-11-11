@@ -1,0 +1,55 @@
+name: qiskitschool2022
+channels:
+  - conda-forge
+dependencies:
+  - python==3.9.11
+  - numpy==1.23.0
+  - scipy==1.7.3
+  - matplotlib==3.5.1
+  - pylatexenc==2.10
+  - jupyter 
+
+# To create this conda environment:
+## conda env create -n qiskitschool2022 environment.yml 
+
+# To manually install the above packages inside a conda env.:
+## $ conda update -yn base -c defaults conda
+## $ conda install python==3.9.11 
+## $ conda install -c conda-forge numpy==1.23.0
+## $ conda install -c anaconda scipy
+## $ conda install matplotlib==3.5.1
+## $ conda install -c conda-forge pylatexenc==2.10
+## $ conda install -c anaconda jupyter
+
+# External packages that must be installed via pip:
+# Note: Windows users should replace "python3" with "python".
+## $ conda update -yn base -c defaults conda
+## $ conda install -yc conda-forge pip==22.3.1
+## $ python3 -m pip install -U --upgrade pip 
+## $ python3 -m pip install -U qiskit[all]
+
+# To create a spec file containing all the env. package dependencies:
+## $ conda list -n <env_name> > spec_list.txt
+# If you activated the env.:
+## $ conda list > spec_list.txt
+
+# To export the current environment package dependencies to a .yml file (suggested for sharing between users):
+## $ conda env export > environment.yml
+
+# To export only those packages installed with exact version specification:
+## $ conda env export --from-history -n <env_name_exist> > environment.yml
+
+# Command-Line Interface (CLI)
+## To show env. info: $ conda info
+## To show installed packages: $ conda list
+## To list a package info: $ conda list <package_name>
+## To remove the env.: $ conda remove -n <env_name_exists> --all
+
+# Checking installed versions:
+## $ python --version or $ python -V
+## $ conda list numpy
+## $ conda list scipy
+## $ conda list matplotlib
+## $ conda list pylatexenc
+## $ conda list jupyter
+## $ conda list qiskit
