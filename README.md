@@ -24,12 +24,11 @@
 <div align="center">
 <b>Author:<a target="_blank" href="https://github.com/camponogaraviera"> ¹Lucas Camponogara Viera</a></b>
 <br>
-<b><a target="_blank" href="https://en.ntnu.edu.tw/">¹National Taiwan Normal University - NTNU, Taipei, Taiwan</a></b>.
+<b><a target="_blank" href="https://github.com/QuCAI-Lab">¹QuCAI-Lab - Taipei, Taiwan</a></b>.
 </div>
 
 <!-- Dependencies: -->
 # Dependencies
-<code>
 <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"><img height="27" src="https://www.python.org/static/img/python-logo.png"></a>
 <a href="https://numpy.org/" target="_blank" rel="noopener noreferrer"><img height="27" src="https://numpy.org/images/logo.svg"></a>
 <a href="https://matplotlib.org" target="_blank" rel="noopener noreferrer"><img height="27" src="https://matplotlib.org/_static/images/logo2.svg"></a>
@@ -39,7 +38,6 @@
     <img alt="Shows Qiskit logo for light color mode and dark color mode." src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Qiskit-Logo.svg/1200px-Qiskit-Logo.svg.png" height="27">
   </picture>
 </a>
-</code>
 <br>
 <br>
   
