@@ -77,7 +77,7 @@ git clone https://github.com/QuCAI-Lab/qiskit2022-global-summer-school.git && cd
 ```
 Create a conda environment with the required dependencies:
 ```bash
-conda env create -n qiskitschool2022 environment.yml && conda activate qiskitschool2022
+conda env create -f environment.yml && conda activate qiskitschool2022
 ```
 Install pip:
 ```bash
