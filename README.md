@@ -1,8 +1,6 @@
 <!-- Badges: -->
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg?logo=paypal&style=flat-square)](https://www.paypal.me/CamponogaraViera/100)
 [![License](https://img.shields.io/github/license/QuCAI-Lab/qiskit2022-global-summer-school.svg?logo=CreativeCommons&style=flat-square)](https://github.com/QuCAI-Lab/qiskit2022-global-summer-school/blob/dev/LICENSE.md)
 [![Contributions](https://img.shields.io/badge/contributions-welcome-orange?style=flat-square)](https://github.com/QuCAI-Lab/qiskit2022-global-summer-school/pulls)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/QuCAI-Lab/qiskit2022-global-summer-school/graphs/commit-activity)
 [![Release](https://img.shields.io/github/release/QuCAI-Lab/qiskit2022-global-summer-school.svg)](https://github.com/QuCAI-Lab/qiskit2022-global-summer-school/releases)
 
 <!-- Logo: -->
@@ -15,17 +13,10 @@
 <!-- Title: -->
 <div align="center">
   <h1> <a href="https://qiskit.org/events/summer-school/"> Qiskit Global Summer School 2022 </a></h1>
-  <h2> Solutions to the Lab exercises </h2>
+  <h2> Solutions </h2>
 </div>
 <br> 
 <br> 
-
-<!-- Author: -->
-<div align="center">
-<b>Author:<a target="_blank" href="https://github.com/camponogaraviera"> ¹Lucas Camponogara Viera</a></b>
-<br>
-<b><a target="_blank" href="https://github.com/QuCAI-Lab">¹QuCAI-Lab - Taipei, Taiwan</a></b>.
-</div>
 
 <!-- Dependencies: -->
 # Dependencies
@@ -104,7 +95,3 @@ pip install git+https://github.com/qiskit-community/qiskit-textbook.git#subdirec
 This work is licensed under a [Creative Commons Zero v1.0 Universal](LICENSE.md) license.
 
 <hr>
-
-Created and maintained by [@camponogaraviera][1].
-
-[1]: https://github.com/camponogaraviera
